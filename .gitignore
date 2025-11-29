@@ -1,0 +1,4 @@
+# Git ignore file 
+# Ignore Jupyter checkpoint folders
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
