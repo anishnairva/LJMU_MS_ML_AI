@@ -30,7 +30,7 @@ All outputs from prompting and RAG were evaluated using:
 Faithfulness,Hallucination rate,Correctness,Relevance
 (For RAG only) Context Precision, Context Recall
 
-## 5. Environment Requirements
+## 4. Environment Requirements
 Python (Jupyter Notebook environment)
 Standard scientific libraries (pandas, numpy, etc.)
 Additional libraries for embeddings, retrieval, or API calls
