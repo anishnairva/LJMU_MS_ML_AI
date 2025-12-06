@@ -1,6 +1,6 @@
 ## Reducing Hallucinations in Healthcare Chatbots: A Comparative Study of Prompting Techniques vs Retrieval-Augmented Generation (RAG)
 
-## Author: Anish Nair
+## Author: Anish V A
 ### MSc Artificial Intelligence and Machine Learning, Liverpool John Moores University (LJMU)
 
 ## 1. Overview
