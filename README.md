@@ -50,7 +50,7 @@ Relevance
 (For RAG only) Context Precision
 (For RAG only) Context Recall
 
-### 4. Environment Requirements
+## 4. Environment Requirements
 
 Python (Jupyter Notebook environment)
 Standard scientific libraries (pandas, numpy, etc.)
@@ -58,7 +58,7 @@ Additional libraries for embeddings, retrieval, or API calls
 External LLMs accessed through Groq API keys (keys are not included)
 You can reproduce the experiments by installing the required Python packages and adding your own Groq API credentials.
 
-### 5. Purpose of This Repository
+## 5. Purpose of This Repository
 
 This repository serves as:
 The official codebase linked to my MSc dissertation
